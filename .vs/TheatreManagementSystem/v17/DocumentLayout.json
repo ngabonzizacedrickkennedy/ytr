@@ -1,0 +1,1329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\exceptions\\resourcenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\exceptions\\resourcenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\globalsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\globalsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\theatremanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\theatremanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\mappers\\seatmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\mappers\\seatmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\mappers\\theatremapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\mappers\\theatremapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\mappers\\screeningmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\mappers\\screeningmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\mappers\\moviemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\mappers\\moviemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\mappers\\bookingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\mappers\\bookingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\security\\customauthsuccesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\security\\customauthsuccesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\configuration\\securityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\configuration\\securityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\configuration\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\security\\rolerequirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\security\\rolerequirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\security\\jwtauthentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\security\\jwtauthentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\security\\userdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\security\\userdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\security\\jwttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\security\\jwttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\twofactorauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\twofactorauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\theatreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\theatreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\screeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\screeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\theatrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\theatrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\itwofactorauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\itwofactorauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\itheatreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\itheatreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\iscreeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\iscreeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\ipasswordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\ipasswordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\iglobalsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\iglobalsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\screeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\screeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\interfaces\\itheatrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\interfaces\\itheatrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\interfaces\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\interfaces\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\interfaces\\iscreeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\interfaces\\iscreeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\repositories\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\repositories\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\auth\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\auth\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\auth\\passwordresettokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\auth\\passwordresettokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\auth\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\auth\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\auth\\otpverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\auth\\otpverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\theatredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\theatredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\screeningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\screeningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\contactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\contactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\models\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\models\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|c:\\users\\ingab\\source\\repos\\theatremanagementsystem\\theatremanagementsystem\\models\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760EA892-F324-4A22-8595-6FA1846249E4}|TheatreManagementSystem\\TheatreManagementSystem.csproj|solutionrelative:theatremanagementsystem\\models\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Exceptions\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Exceptions\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Exceptions\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Exceptions\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:46:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:43:55.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourceNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Exceptions\\ResourceNotFoundException.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Exceptions\\ResourceNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Exceptions\\ResourceNotFoundException.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Exceptions\\ResourceNotFoundException.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:44:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\GlobalSearchService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\GlobalSearchService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\GlobalSearchService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\GlobalSearchService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:09:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheatreManagementSystem",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\TheatreManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+              "RelativeToolTip": "TheatreManagementSystem\\TheatreManagementSystem.csproj",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T11:37:43.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:43:34.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeatMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\SeatMapper.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Mappers\\SeatMapper.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\SeatMapper.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Mappers\\SeatMapper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:42:30.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScreeningMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\ScreeningMapper.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Mappers\\ScreeningMapper.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\ScreeningMapper.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Mappers\\ScreeningMapper.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:32:36.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\MovieMapper.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Mappers\\MovieMapper.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\MovieMapper.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Mappers\\MovieMapper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:33.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TheatreMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\TheatreMapper.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Mappers\\TheatreMapper.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\TheatreMapper.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Mappers\\TheatreMapper.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:32:17.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Mappers\\UserMapper.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:56.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\BookingMapper.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Mappers\\BookingMapper.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\BookingMapper.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Mappers\\BookingMapper.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:32:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Mappers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Mappers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Mappers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:33:20.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Program.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:10:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\appsettings.json",
+              "RelativeToolTip": "TheatreManagementSystem\\appsettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T13:54:03.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SecurityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Configuration\\SecurityConfig.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Configuration\\SecurityConfig.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Configuration\\SecurityConfig.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Configuration\\SecurityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:47:05.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomAuthSuccessHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\CustomAuthSuccessHandler.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Security\\CustomAuthSuccessHandler.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\CustomAuthSuccessHandler.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Security\\CustomAuthSuccessHandler.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:45:32.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Security\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\JwtSettings.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Security\\JwtSettings.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:37:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Configuration\\JwtConfiguration.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Configuration\\JwtConfiguration.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Configuration\\JwtConfiguration.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Configuration\\JwtConfiguration.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:46:30.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleRequirements.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\RoleRequirements.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Security\\RoleRequirements.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\RoleRequirements.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Security\\RoleRequirements.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:45:49.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtAuthEntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\JwtAuthEntryPoint.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Security\\JwtAuthEntryPoint.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\JwtAuthEntryPoint.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Security\\JwtAuthEntryPoint.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:45:08.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\UserDetailsService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Security\\UserDetailsService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\UserDetailsService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Security\\UserDetailsService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:37:24.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\JwtTokenProvider.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Security\\JwtTokenProvider.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Security\\JwtTokenProvider.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Security\\JwtTokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:36:52.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SeatService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\SeatService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\SeatService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\SeatService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\SeatService.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAuwLEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:08:59.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TheatreService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\TheatreService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\TheatreService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\TheatreService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\TheatreService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:08:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TwoFactorAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\TwoFactorAuthService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\TwoFactorAuthService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\TwoFactorAuthService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\TwoFactorAuthService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:09:17.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\UserService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswMYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:07:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScreeningService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\ScreeningService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\ScreeningService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\ScreeningService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\ScreeningService.cs",
+              "ViewState": "AgIAABcCAAAAAAAAAAAcwCgCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:08:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PasswordResetService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\PasswordResetService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\PasswordResetService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\PasswordResetService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\PasswordResetService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:09:30.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\MovieService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\MovieService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:07:43.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\EmailService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\EmailService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:10:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\BookingService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\BookingService.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAACMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:08:44.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TheatreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\TheatreRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\TheatreRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\TheatreRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\TheatreRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:47:21.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:46:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ISeatService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\ISeatService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\ISeatService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\ISeatService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\ISeatService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:00:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITheatreService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\ITheatreService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\ITheatreService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\ITheatreService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\ITheatreService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:59:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITwoFactorAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\ITwoFactorAuthService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\ITwoFactorAuthService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\ITwoFactorAuthService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\ITwoFactorAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:00:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:58:59.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IScreeningService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IScreeningService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\IScreeningService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IScreeningService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\IScreeningService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:00:08.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IPasswordResetService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IPasswordResetService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\IPasswordResetService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IPasswordResetService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\IPasswordResetService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:01:14.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:59:27.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGlobalSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IGlobalSearchService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\IGlobalSearchService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IGlobalSearchService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\IGlobalSearchService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:01:27.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:01:42.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:00:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ScreeningRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\ScreeningRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\ScreeningRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\ScreeningRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\ScreeningRepository.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAAAGkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:47:38.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SeatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\SeatRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\SeatRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\SeatRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\SeatRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:48:18.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:46:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAuwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:45:52.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:47:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IScreeningRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IScreeningRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\Interfaces\\IScreeningRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IScreeningRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\Interfaces\\IScreeningRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:42:14.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ISeatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\ISeatRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\Interfaces\\ISeatRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\ISeatRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\Interfaces\\ISeatRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:42:45.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ITheatreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\ITheatreRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\Interfaces\\ITheatreRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\ITheatreRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\Interfaces\\ITheatreRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:41:58.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:41:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:41:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:41:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:42:29.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PasswordResetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\PasswordResetRequest.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\Auth\\PasswordResetRequest.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\PasswordResetRequest.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\Auth\\PasswordResetRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:29:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PasswordResetTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\PasswordResetTokenRequest.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\Auth\\PasswordResetTokenRequest.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\PasswordResetTokenRequest.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\Auth\\PasswordResetTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:30:03.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SignupRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\SignupRequest.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\Auth\\SignupRequest.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\SignupRequest.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\Auth\\SignupRequest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:29:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OtpVerificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\OtpVerificationRequest.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\Auth\\OtpVerificationRequest.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\OtpVerificationRequest.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\Auth\\OtpVerificationRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:29:25.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\Auth\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\LoginResponse.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\Auth\\LoginResponse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:28:46.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:28:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ScreeningDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\ScreeningDTO.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\ScreeningDTO.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\ScreeningDTO.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\ScreeningDTO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:18:27.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SeatDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\SeatDTO.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\SeatDTO.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\SeatDTO.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\SeatDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:16:44.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TheatreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\TheatreDTO.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\TheatreDTO.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\TheatreDTO.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\TheatreDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:15:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:13:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:13:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\MovieDTO.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\MovieDTO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:14:21.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ContactRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\ContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\ContactRequestDTO.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\ContactRequestDTO.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\ContactRequestDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:17:26.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\DTOs\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\DTOs\\BookingDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:16:19.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:01:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Screening.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Screening.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Models\\Screening.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Screening.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Models\\Screening.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:59:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Models\\Booking.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:58:24.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Seat.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Models\\Seat.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Seat.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Models\\Seat.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:57:56.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Theatre.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Theatre.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Models\\Theatre.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Theatre.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Models\\Theatre.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:57:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\Movie.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Models\\Movie.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:57:07.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TheatreManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "TheatreManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:56:03.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
