@@ -128,4 +128,19 @@ namespace TheatreManagementSystem.Exceptions
             ServiceName = serviceName;
         }
     }
+
+    /// <summary>
+    /// Custom SecurityTokenException for JWT token validation failures
+    /// This is separate from Microsoft.IdentityModel.Tokens.SecurityTokenException
+    /// </summary>
+    public class SecurityTokenException : Exception
+    {
+        public SecurityTokenException(string message) : base(message)
+        {
+        }
+
+        public SecurityTokenException(string message, Exception innerException) : base(message, innerException)
+        {
+        }
+    }
 }

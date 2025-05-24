@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWmMeTw7E1Y=",
+  "dgSpecHash": "exTUXzvruqU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ingab\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ingab\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -104,9 +104,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.Extensions.Caching.Memory' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
-      "projectPath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "projectPath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "filePath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "libraryId": "Microsoft.Extensions.Caching.Memory",
       "targetGraphs": [
         "net8.0"
@@ -116,9 +116,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'MimeKit' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-gmc6-fwg3-75m5",
-      "projectPath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "projectPath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "filePath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "libraryId": "MimeKit",
       "targetGraphs": [
         "net8.0"
@@ -128,9 +128,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "projectPath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "projectPath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "filePath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net8.0"

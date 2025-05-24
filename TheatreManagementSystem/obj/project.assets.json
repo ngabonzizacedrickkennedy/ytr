@@ -4923,11 +4923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "projectName": "TheatreManagementSystem",
-      "projectPath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
+      "projectPath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\TheatreManagementSystem.csproj",
       "packagesPath": "C:\\Users\\ingab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ingab\\source\\repos\\TheatreManagementSystem\\TheatreManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\ingab\\OneDrive\\Desktop\\theatre-manam\\theatre-ms\\TheatreManagementSystem\\TheatreManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

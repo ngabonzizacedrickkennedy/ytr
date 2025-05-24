@@ -50,6 +50,9 @@ builder.Services.AddScoped<IPasswordResetService, PasswordResetService>();
 builder.Services.AddScoped<IGlobalSearchService, GlobalSearchService>();
 builder.Services.AddScoped<IEmailService, EmailService>();
 
+// Add custom authentication service
+builder.Services.AddCustomAuthentication();
+
 // Add Memory Cache for OTP and Password Reset tokens
 builder.Services.AddMemoryCache();
 
@@ -109,8 +112,17 @@ if (app.Environment.IsDevelopment())
 // Global Exception Handling Middleware
 app.UseMiddleware<TheatreManagementSystem.Middleware.ExceptionMiddleware>();
 
+
+
 // Use Security Middleware (CORS, Authentication, Authorization)
 app.UseSecurityMiddleware();
+app.UseAuthentication();
+// app.UseEndpoints(endpoints =>
+// {
+//     endpoints.MapControllers();
+// });
+
+app.UseAuthorization();
 
 // Configure routing
 app.UseRouting();
