@@ -54,12 +54,13 @@ namespace TheatreManagementSystem.Services
                     return null;
                 }
 
+                await Task.CompletedTask; // Fix async warning
                 return tokenData.Email;
             }
 
+            await Task.CompletedTask; // Fix async warning
             return null; // Token not found
         }
-
         public async Task<bool> ResetPasswordAsync(string token, string newPassword)
         {
             var email = await ValidateResetTokenAsync(token);

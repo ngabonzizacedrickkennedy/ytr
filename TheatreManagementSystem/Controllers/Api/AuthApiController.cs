@@ -168,7 +168,7 @@ namespace TheatreManagementSystem.Controllers.Api
             {
                 // In JWT, logout is typically handled client-side by removing the token
                 // But we can perform any server-side cleanup here if needed
-                return Ok(ApiResponse<object>.SuccessResult(null, "Logged out successfully"));
+                return Ok(ApiResponse<object>.SuccessResult(new object(), "Logged out successfully"));
             }
             catch (Exception ex)
             {

@@ -57,9 +57,9 @@ namespace TheatreManagementSystem.Services
                 }
             }
 
+            await Task.CompletedTask; // Fix async warning
             return false;
         }
-
         private string GenerateOtp()
         {
             var otp = new StringBuilder();

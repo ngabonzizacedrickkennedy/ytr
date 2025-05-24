@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "uGz+8LYCqe4pG7we0aQeU/QBiJlCJuScJH70NC0NjZQ=",
-  "Source": "TheatreManagementSystem",
-  "BasePath": "_content/TheatreManagementSystem",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"uGz+8LYCqe4pG7we0aQeU/QBiJlCJuScJH70NC0NjZQ=","Source":"TheatreManagementSystem","BasePath":"_content/TheatreManagementSystem","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

@@ -31,7 +31,7 @@ namespace TheatreManagementSystem.Controllers.Api
                 Console.WriteLine($"Password reset email sent: {emailSent}");
 
                 // Always return success to prevent email enumeration attacks
-                return Ok(ApiResponse<object>.SuccessResult(null,
+                return Ok(ApiResponse<object>.SuccessResult(new object(),
                     "If an account with that email exists, a password reset link has been sent."));
             }
             catch (Exception ex)

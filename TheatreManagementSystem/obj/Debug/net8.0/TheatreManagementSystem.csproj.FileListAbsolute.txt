@@ -171,8 +171,11 @@ C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Humanizer.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\MailKit.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -183,7 +186,17 @@ C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -201,6 +214,7 @@ C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -208,6 +222,7 @@ C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\ingab\OneDrive\Desktop\theatre-manam\theatre-ms\TheatreManagementSystem\TheatreManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll

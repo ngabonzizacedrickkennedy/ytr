@@ -15,7 +15,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
-        // Configure JSON serialization to match Spring Boot behavior
         options.JsonSerializerOptions.PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase;
         options.JsonSerializerOptions.WriteIndented = true;
     });
@@ -24,8 +23,11 @@ builder.Services.AddControllers()
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Configure AutoMapper
-builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+// Configure AutoMapper - FIX AMBIGUOUS CALL
+builder.Services.AddAutoMapper(config =>
+{
+    config.AddProfile<AutoMapperProfile>();
+});
 
 // Configure Security (JWT, CORS, Authorization)
 builder.Services.ConfigureSecurity(builder.Configuration);
@@ -53,7 +55,7 @@ builder.Services.AddScoped<IEmailService, EmailService>();
 // Add custom authentication service
 builder.Services.AddCustomAuthentication();
 
-// Add Memory Cache for OTP and Password Reset tokens
+// Add Memory Cache
 builder.Services.AddMemoryCache();
 
 // Configure Swagger/OpenAPI
@@ -62,15 +64,14 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new()
     {
-        Title = builder.Configuration["Swagger:Title"],
-        Version = builder.Configuration["Swagger:Version"],
-        Description = builder.Configuration["Swagger:Description"]
+        Title = builder.Configuration["Swagger:Title"] ?? "Theatre Management System API",
+        Version = builder.Configuration["Swagger:Version"] ?? "v1",
+        Description = builder.Configuration["Swagger:Description"] ?? "API for Theatre Management System"
     });
 
-    // Add JWT Authentication to Swagger
     c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
     {
-        Description = "JWT Authorization header using the Bearer scheme. Enter 'Bearer' [space] and then your token in the text input below.",
+        Description = "JWT Authorization header using the Bearer scheme. Enter 'Bearer' [space] and then your token.",
         Name = "Authorization",
         In = Microsoft.OpenApi.Models.ParameterLocation.Header,
         Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey,
@@ -93,12 +94,11 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-// Add Validation
 builder.Services.AddFluentValidationAutoValidation();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -109,48 +109,39 @@ if (app.Environment.IsDevelopment())
     });
 }
 
-// Global Exception Handling Middleware
+// CRITICAL: Correct middleware order!
 app.UseMiddleware<TheatreManagementSystem.Middleware.ExceptionMiddleware>();
 
+// CORS must come early
+app.UseCors("AllowedOrigins");
 
-
-// Use Security Middleware (CORS, Authentication, Authorization)
-app.UseSecurityMiddleware();
-app.UseAuthentication();
-// app.UseEndpoints(endpoints =>
-// {
-//     endpoints.MapControllers();
-// });
-
-app.UseAuthorization();
-
-// Configure routing
+// Routing must come before Authentication/Authorization
 app.UseRouting();
 
+// Authentication MUST come before Authorization
+app.UseAuthentication();
+app.UseAuthorization();
+
+// Map controllers AFTER all middleware
 app.MapControllers();
 
-// Database Migration and Seeding
+// Database Migration
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-
-    // Ensure database is created and migrated
     try
     {
         context.Database.Migrate();
         Console.WriteLine("Database migrated successfully.");
-
-        // Optional: Seed data if needed
-        // await SeedData.Initialize(scope.ServiceProvider);
     }
     catch (Exception ex)
     {
-        Console.WriteLine($"An error occurred while migrating the database: {ex.Message}");
+        Console.WriteLine($"Database migration error: {ex.Message}");
     }
 }
 
-Console.WriteLine("Theatre Management System API is starting...");
+Console.WriteLine("Theatre Management System API is running...");
 Console.WriteLine($"Environment: {app.Environment.EnvironmentName}");
-Console.WriteLine("Swagger UI available at: /swagger");
+Console.WriteLine("Swagger UI: /swagger");
 
 app.Run();

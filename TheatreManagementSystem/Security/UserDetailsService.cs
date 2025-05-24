@@ -17,14 +17,14 @@ namespace TheatreManagementSystem.Security
         public async Task<ClaimsPrincipal> CreateAsync(User user)
         {
             var claims = new List<Claim>
-            {
-                new(ClaimTypes.NameIdentifier, user.Id.ToString()),
-                new(ClaimTypes.Name, user.UserName ?? string.Empty),
-                new(ClaimTypes.Email, user.Email ?? string.Empty),
-                new(ClaimTypes.GivenName, user.FirstName),
-                new(ClaimTypes.Surname, user.LastName),
-                new(ClaimTypes.Role, user.Role.ToString())
-            };
+    {
+        new(ClaimTypes.NameIdentifier, user.Id.ToString()),
+        new(ClaimTypes.Name, user.UserName ?? string.Empty),
+        new(ClaimTypes.Email, user.Email ?? string.Empty),
+        new(ClaimTypes.GivenName, user.FirstName),
+        new(ClaimTypes.Surname, user.LastName),
+        new(ClaimTypes.Role, user.Role.ToString())
+    };
 
             if (!string.IsNullOrEmpty(user.PhoneNumber))
             {
@@ -32,9 +32,9 @@ namespace TheatreManagementSystem.Security
             }
 
             var identity = new ClaimsIdentity(claims, "jwt");
+            await Task.CompletedTask; // Fix async warning
             return new ClaimsPrincipal(identity);
         }
-
         public async Task<User?> LoadUserByUsernameAsync(string username)
         {
             return await _userRepository.FindByUsernameAsync(username);
